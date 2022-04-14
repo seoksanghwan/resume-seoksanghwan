@@ -18,7 +18,7 @@
 
 ## 경력사항
 
-### ‣ marvelousdesigner
+### ‣ Marvelousdesigner
 - URL : <https://marvelousdesigner.com/><br />
 * 마블러스디자이너 전체 릴리즈 및 유지보수
 * 마블러스디자이너는 소프트웨어 라인서스 판매 서비스를 제공해주는 사이트입니다.

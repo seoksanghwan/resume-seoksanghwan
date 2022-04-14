@@ -13,10 +13,25 @@
 - Frontend Bootcamp [Vanilla Coding](https://www.vanillacoding.co/)에서 Javascript Bootcamp Course **프레임워크코스까지 수료**
 - 자바스크립트 기본구조(Closure, Scope, Hoisting 등)
 - 객체지향 프로그래밍, 함수형 프로그래밍, 비동기 프로그래밍 등
-- React, React Router, Redux
-- Node.js, Express, MongoDB
+- React, Next.js, Mobx, Redux, Scss, Sass, Html, Css,
+- Node.js, Express
 
 ## 경력사항
+
+### ‣ marvelousdesigner
+- URL : <https://marvelousdesigner.com/><br />
+* 마블러스디자이너 전체 릴리즈 및 유지보수
+* 마블러스디자이너는 소프트웨어 라인서스 판매 서비스를 제공해주는 사이트입니다.
+* 마블러스디자이너는 스토어에있는 가상 의류 리스트, 상세페이지, 장바구니, 판매를 제공해주는 사이트입니다.
+* 마블러스디자이너는 기업/개인 유저를 나눠 회원가입이 가능 한 사이트입니다.
+* 마블러스디자이너는 각종 컨텐츠를 보여주는 사이트입니다.
+* 마블러스디자이너는 구글애널리틱스를 통해, (웹, in App)스토어 매출 통계를 낼 수 있는 사이트입니다
+* 마블러스디자이너는 반응형 사이트입니다.
+* 마블러스디자이너는 다국어 사이트입니다.
+
+**_기술스택_**<br />
+- Client: React, NextJs, Mobx, Mobx-React, Axios, Paypal, Stripe, Zendesk, CLO-SETAPI, Scss, google analytics(Gtag), i18next, google-spreadsheet
+
 ### ‣ AipeBot
 - URL : <http://aipebot.com><br />
 

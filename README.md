@@ -32,6 +32,7 @@
 **_기술스택_**<br />
 - Client: React, NextJs, Mobx, Mobx-React, Axios, Paypal, Stripe, Zendesk, CLO-SETAPI, Scss, google analytics(Gtag), i18next, google-spreadsheet
 
+* * *
 ### ‣ AipeBot
 - URL : <http://aipebot.com><br />
 
